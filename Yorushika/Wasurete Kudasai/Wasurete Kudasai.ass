@@ -16,9 +16,8 @@ Video File: video_1080.webm
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 30
-Active Line: 42
-Video Position: 5283
+Active Line: 4
+Video Position: 1000
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -30,7 +29,7 @@ Dialogue: 0,0:00:02.07,0:00:05.06,Default,,0,0,0,,boku ni kokoro wo
 Dialogue: 0,0:00:05.20,0:00:08.00,Default,,0,0,0,,kimi ni hanataba wo
 Dialogue: 0,0:00:08.28,0:00:14.25,Default,,0,0,0,,yureru kami dake nabiku mamani shite
 Dialogue: 0,0:00:27.70,0:00:30.35,Default,,0,0,0,,hako no naka no chiisai ie no
-Dialogue: 0,0:00:30.67,0:00:33.40,Default,,0,0,0,,futari de naranda kicchin no
+Dialogue: 0,0:00:30.40,0:00:33.40,Default,,0,0,0,,futari de naranda kicchin no
 Dialogue: 0,0:00:33.83,0:00:36.42,Default,,0,0,0,,komado no kaaten no saki no
 Dialogue: 0,0:00:36.80,0:00:38.63,Default,,0,0,0,,omoide no niwa ni
 Dialogue: 0,0:00:39.98,0:00:42.61,Default,,0,0,0,,haru no hizashi wo hitotsu umete
