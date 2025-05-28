@@ -16,8 +16,9 @@ Video File: video_1080.webm
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Active Line: 8
-Video Position: 960
+Scroll Position: 4
+Active Line: 18
+Video Position: 2099
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -28,7 +29,7 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Sample KM [Up],,0,0,0,template pre-line all keeptags,!retime("line",$start < 900 and -$start or -900,200)!{!$start < 900 and "\\k" .. ($start/10) or "\\k90"!\fad(!$start < 900 and $start or 300!,200)}
 Dialogue: 0,0:00:02.08,0:00:05.06,Sample KM [Up],,0,0,0,,{\k23}bo{\k24}ku {\k37}ni {\k20}ko{\k74}ko{\k39}ro {\kf81}wo
 Dialogue: 0,0:00:05.22,0:00:08.00,Sample KM [Up],,0,0,0,,{\k24}ki{\k17}mi {\k33}ni {\k25}ha{\k34}na{\k41}ta{\k40}ba {\kf64}wo
-Dialogue: 0,0:00:08.33,0:00:14.25,Sample KM [Up],,0,0,0,,{\k17}yu{\k22}re{\k35}ru {\k21}ka{\k72}mi {\k39}da{\kf99}ke {\k18}na{\k22}bi{\k41}ku {\k15}ma{\k42}ma{\k26}ni {\k50}shi{\kf73}te
+Dialogue: 0,0:00:08.33,0:00:14.25,Sample KM [Up],,0,0,0,,{\k17}yu{\k22}re{\k35}ru {\k21}ka{\k72}mi {\k39}da{\kf99}ke {\k18}na{\k22}bi{\k38}ku {\k18}ma{\k42}ma{\k26}ni {\k50}shi{\kf73}te
 Dialogue: 0,0:00:27.70,0:00:30.35,Sample KM [Up],,0,0,0,,{\k19}ha{\k22}ko {\k20}no {\k18}na{\k21}ka {\k17}no {\k37}chii{\k40}sai {\k21}i{\k17}e {\k33}no
 Dialogue: 0,0:00:30.50,0:00:33.40,Sample KM [Up],,0,0,0,,{\k29}fu{\k22}ta{\k17}ri {\k23}de {\k14}na{\k39}ran{\k22}da {\k36}kic{\k46}chin {\k42}no
 Dialogue: 0,0:00:33.83,0:00:36.42,Sample KM [Up],,0,0,0,,{\k23}ko{\k19}ma{\k20}do {\k17}no {\k42}kaa{\k37}ten {\k16}no {\k22}sa{\k24}ki {\k39}no
@@ -38,11 +39,11 @@ Dialogue: 0,0:00:42.90,0:00:45.77,Sample KM [Up],,0,0,0,,{\k18}ta{\k22}ma {\k19}
 Dialogue: 0,0:00:46.16,0:00:48.64,Sample KM [Up],,0,0,0,,{\k36}chii{\k25}sa{\k16}na {\k22}bi{\k20}wa {\k21}ga {\k34}nat{\k20}ta {\k19}to{\k35}ki
 Dialogue: 0,0:00:49.09,0:00:50.65,Sample KM [Up],,0,0,0,,{\k15}wa{\k19}su{\k22}re{\k17}te {\k19}ku{\k15}da{\k49}sai
 Dialogue: 0,0:00:51.38,0:00:56.03,Sample KM [Up],,0,0,0,,{\k19}bo{\k26}ku {\k49}ni{\k55} {\k25}bo{\k25}ku {\k54}ni{\k55} {\k20}bo{\k23}ku {\k53}ni{\k61}
-Dialogue: 0,0:00:57.43,0:01:00.37,Sample KM [Up],,0,0,0,,{\k29}bo{\k24}ku {\k37}ni {\k14}ko{\k79}ko{\k35}ro {\kf76}wo
+Dialogue: 0,0:00:57.43,0:01:00.37,Sample KM [Up],,0,0,0,,{\k29}bo{\k24}ku {\k37}ni {\k14}ko{\k73}ko{\k41}ro {\kf76}wo
 Dialogue: 0,0:01:00.60,0:01:03.46,Sample KM [Up],,0,0,0,,{\k17}ki{\k26}mi {\k36}ni {\k17}ha{\k39}na{\k37}ta{\k35}ba {\kf79}wo
-Dialogue: 0,0:01:03.69,0:01:09.56,Sample KM [Up],,0,0,0,,{\k18}yu{\k20}re{\k37}ru {\k16}ka{\k30}mi{\k50} {\k39}da{\kf70}ke{\k28} {\k17}na{\k22}bi{\k38}ku {\k16}ma{\k40}ma{\k24}ni {\k53}shi{\kf69}te
+Dialogue: 0,0:01:03.69,0:01:09.56,Sample KM [Up],,0,0,0,,{\k18}yu{\k20}re{\k37}ru {\k16}ka{\k38}mi{\k42} {\k39}da{\kf70}ke{\k28} {\k17}na{\k22}bi{\k37}ku {\k17}ma{\k40}ma{\k24}ni {\k49}shi{\kf73}te
 Dialogue: 0,0:01:09.85,0:01:12.68,Sample KM [Up],,0,0,0,,{\k16}bo{\k26}ku {\k30}ni {\k22}ko{\k47}to{\k29}{\k38}ba {\kf75}wo
-Dialogue: 0,0:01:12.90,0:01:15.78,Sample KM [Up],,0,0,0,,{\k19}ki{\k21}mi {\k37}no {\k18}ha{\k40}na{\k38}u{\k39}ta {\kf76}wo
+Dialogue: 0,0:01:12.90,0:01:15.78,Sample KM [Up],,0,0,0,,{\k19}ki{\k21}mi {\k37}no {\k18}ha{\k38}na{\k40}u{\k39}ta {\kf76}wo
 Dialogue: 0,0:01:16.01,0:01:26.14,Sample KM [Up],,0,0,0,,{\k15}na{\k61}gai {\k17}na{\kf70}gai{\k44} {\k75}me{\k42}i{\k39}ro {\kf169}no{\k46} {\k53}sa{\k39}ki {\kf189}ni{\k60} {\k19}o{\k22}i{\k53}te
 Dialogue: 0,0:01:38.48,0:01:41.15,Sample KM [Up],,0,0,0,,hitotsu hitotsu kazoete mite
 Dialogue: 0,0:01:41.54,0:01:44.16,Sample KM [Up],,0,0,0,,anata jishin no jinsei no
