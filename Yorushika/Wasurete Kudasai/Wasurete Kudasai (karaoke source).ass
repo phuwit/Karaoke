@@ -15,8 +15,9 @@ Audio File: video_1080.webm
 Video File: ?dummy:24.000000:6000:1920:1080:64:64:64:
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Active Line: 1
-Video Position: 2141
+Scroll Position: 27
+Active Line: 37
+Video Position: 5237
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -36,7 +37,7 @@ Dialogue: 0,0:00:40.00,0:00:42.61,Sample KM [Up],,0,0,0,,{\k19}ha{\k22}ru {\k16}
 Dialogue: 0,0:00:42.90,0:00:45.77,Sample KM [Up],,0,0,0,,{\k18}ta{\k22}ma {\k19}ni {\k17}wa {\k18}su{\k16}ko{\k25}shi {\k19}no {\k14}mi{\k22}zu {\k19}wo {\k41}yat{\k37}te
 Dialogue: 0,0:00:46.16,0:00:48.64,Sample KM [Up],,0,0,0,,{\k36}chii{\k25}sa{\k16}na {\k22}bi{\k20}wa {\k21}ga {\k34}nat{\k20}ta {\k19}to{\k35}ki
 Dialogue: 0,0:00:49.09,0:00:50.65,Sample KM [Up],,0,0,0,,{\k15}wa{\k19}su{\k22}re{\k17}te {\k19}ku{\k15}da{\k49}sai
-Dialogue: 0,0:00:51.38,0:00:56.03,Sample KM [Up],,0,0,0,,{\k19}bo{\k26}ku {\k49}ni{\k55} {\k25}bo{\k25}ku {\k54}ni{\k55} {\k20}bo{\k23}ku {\k53}ni{\k61}
+Dialogue: 0,0:00:51.38,0:00:56.03,Sample KM [Up],,0,0,0,,{\k19}bo{\k26}ku {\kf49}ni{\k55} {\k25}bo{\k25}ku {\kf54}ni{\k55} {\k20}bo{\k23}ku {\kf53}ni{\k61}
 Dialogue: 0,0:00:57.43,0:01:00.37,Sample KM [Up],,0,0,0,,{\k29}bo{\k24}ku {\k37}ni {\k14}ko{\k73}ko{\k41}ro {\kf76}wo
 Dialogue: 0,0:01:00.60,0:01:03.46,Sample KM [Up],,0,0,0,,{\k17}ki{\k26}mi {\k36}ni {\k17}ha{\k39}na{\k37}ta{\k35}ba {\kf79}wo
 Dialogue: 0,0:01:03.69,0:01:09.56,Sample KM [Up],,0,0,0,,{\k18}yu{\k20}re{\k37}ru {\k16}ka{\k38}mi{\k42} {\k39}da{\kf70}ke{\k28} {\k17}na{\k22}bi{\k37}ku {\k17}ma{\k40}ma{\k24}ni {\k49}shi{\kf73}te
@@ -55,12 +56,12 @@ Dialogue: 0,0:02:02.12,0:02:06.94,Sample KM [Up],,0,0,0,,{\k17}bo{\k23}ku {\kf53
 Dialogue: 0,0:02:08.29,0:02:09.46,Sample KM [Up],,0,0,0,,{\k18}bo{\k25}ku {\kf74}ni
 Dialogue: 0,0:02:14.46,0:02:15.57,Sample KM [Up],,0,0,0,,{\k17}bo{\k23}ku {\kf71}ni
 Dialogue: 0,0:02:20.59,0:02:21.84,Sample KM [Up],,0,0,0,,{\k20}bo{\k24}ku {\kf81}ni
-Dialogue: 0,0:02:32.90,0:02:35.75,Sample KM [Up],,0,0,0,,{\k19}bo{\k22}ku {\k35}ni {\k18}ko{\k78}ko{\k36}ro {\k77}wo
-Dialogue: 0,0:02:35.97,0:02:38.71,Sample KM [Up],,0,0,0,,{\k19}ki{\k21}mi {\k34}ni {\k22}ha{\k38}na{\k40}ta{\k29}ba {\k71}wo
-Dialogue: 0,0:02:39.07,0:02:44.86,Sample KM [Up],,0,0,0,,{\k18}yu{\k20}re{\k39}ru {\k16}ka{\k41}mi{\k37} {\k40}da{\k58}ke{\k40} {\k17}na{\k20}bi{\k35}ku {\k14}ma{\k44}ma{\k28}ni {\k49}shi{\k63}te
-Dialogue: 0,0:02:45.25,0:02:48.08,Sample KM [Up],,0,0,0,,{\k15}bo{\k22}ku {\k35}ni {\k20}ko{\k77}to{\k38}ba {\k76}wo
-Dialogue: 0,0:02:48.27,0:02:51.08,Sample KM [Up],,0,0,0,,{\k21}ki{\k24}mi {\k33}no {\k20}ha{\k38}na{\k38}u{\k40}ta {\k67}wo
-Dialogue: 0,0:02:51.38,0:03:01.53,Sample KM [Up],,0,0,0,,{\k18}na{\k59}gai {\k17}na{\k61}gai{\k61} {\k72}me{\k40}i{\k38}ro {\k162}no{\k46} {\k55}sa{\k42}ki {\k195}ni{\k56} {\k18}o{\k19}i{\k56}te
+Dialogue: 0,0:02:32.90,0:02:35.75,Sample KM [Up],,0,0,0,,{\k19}bo{\k22}ku {\k35}ni {\k18}ko{\k78}ko{\k36}ro {\kf77}wo
+Dialogue: 0,0:02:35.97,0:02:38.71,Sample KM [Up],,0,0,0,,{\k19}ki{\k21}mi {\k34}ni {\k22}ha{\k38}na{\k40}ta{\k29}ba {\kf71}wo
+Dialogue: 0,0:02:39.07,0:02:44.86,Sample KM [Up],,0,0,0,,{\k18}yu{\k20}re{\k39}ru {\k16}ka{\k41}mi{\k37} {\k40}da{\kf58}ke{\k40} {\k17}na{\k20}bi{\k35}ku {\k14}ma{\k44}ma{\k28}ni {\k49}shi{\kf63}te
+Dialogue: 0,0:02:45.25,0:02:48.08,Sample KM [Up],,0,0,0,,{\k15}bo{\k22}ku {\k35}ni {\k20}ko{\k77}to{\k38}ba {\kf76}wo
+Dialogue: 0,0:02:48.27,0:02:51.08,Sample KM [Up],,0,0,0,,{\k21}ki{\k24}mi {\k33}no {\k20}ha{\k38}na{\k38}u{\k40}ta {\kf67}wo
+Dialogue: 0,0:02:51.38,0:03:01.53,Sample KM [Up],,0,0,0,,{\k18}na{\k59}gai {\k17}na{\kf61}gai{\k61} {\k72}me{\k40}i{\k38}ro {\kf162}no{\k46} {\k55}sa{\k42}ki {\kf195}ni{\k56} {\k18}o{\k19}i{\k56}te
 Dialogue: 0,0:03:13.83,0:03:16.44,Sample KM [Up],,0,0,0,,{\k22}ha{\k21}ko {\k18}no {\k18}na{\k20}ka {\k19}no {\k30}chii{\k47}sai {\k18}i{\k21}e {\k27}no
 Dialogue: 0,0:03:16.72,0:03:19.44,Sample KM [Up],,0,0,0,,{\k13}a{\k27}sa {\k12}no {\k27}hi {\k18}ni {\k22}yu{\k20}re{\k20}ru {\k37}kaa{\k42}ten {\k34}wo
 Dialogue: 0,0:03:20.00,0:03:22.53,Sample KM [Up],,0,0,0,,{\k20}a{\k21}ke{\k14}ta {\k20}shi{\k23}zu{\k18}ka{\k22}na {\k36}kyuu{\k21}ji{\k24}tsu {\k34}no
